@@ -1,0 +1,193 @@
+Act with Prudence by Seb Rose
+%
+Apply Functional Programming Principles by Edward Garson
+%
+Ask "What Would the User Do?" (You Are not the User) by Giles Colborne
+%
+Automate Your Coding Standard by Filip van Laenen
+%
+Beauty Is in Simplicity by Jrn lmheim
+%
+Before You Refactor by Rajith Attapattu
+%
+Beware the Share by Udi Dahan
+%
+The Boy Scout Rule by Uncle Bob
+%
+Check Your Code First before Looking to Blame Others by Allan Kelly
+%
+Choose Your Tools with Care by Giovanni Asproni
+%
+Code in the Language of the Domain by Dan North
+%
+Code Is Design by Ryan Brush
+%
+Code Layout Matters by Steve Freeman
+%
+Code Reviews by Mattias Karlsson
+%
+Coding with Reason by Yechiel Kimchi
+%
+A Comment on Comments by Cal Evans
+%
+Comment Only What the Code Cannot Say by Kevlin Henney
+%
+Continuous Learning by Clint Shank
+%
+Convenience Is not an -ility by Gregor Hohpe
+%
+Deploy Early and Often by Steve Berczuk
+%
+Distinguish Business Exceptions from Technical by Dan Bergh Johnsson
+%
+Do Lots of Deliberate Practice by Jon Jagger
+%
+Domain-Specific Languages by Michael Hunger
+%
+Don't Be Afraid to Break Things by Mike Lewis
+%
+Don't Be Cute with Your Test Data by Rod Begbie
+%
+Don't Ignore that Error! by Pete Goodliffe
+%
+Don't Just Learn the Language, Understand its Culture by Anders Nors
+%
+Don't Nail Your Program into the Upright Position by Verity Stob
+%
+Don't Rely on "Magic Happens Here" by AlanGriffiths
+%
+Don't Repeat Yourself by Steve Smith
+%
+Don't Touch that Code! by Cal Evans
+%
+Encapsulate Behavior, not Just State by Einar Landre
+%
+Floating-point Numbers Aren't Real by Chuck Allison
+%
+Fulfill Your Ambitions with Open Source by Richard Monson-Haefel
+%
+The Golden Rule of API Design by Michael Feathers
+%
+The Guru Myth by Ryan Brush
+%
+Hard Work Does not Pay Off by Olve Maudal
+%
+How to Use a Bug Tracker by Matt Doar
+%
+Improve Code by Removing It by Pete Goodliffe
+%
+Install Me by Marcus Baker
+%
+Inter-Process Communication Affects Application Response Time by Randy Stafford
+%
+Keep the Build Clean by Johannes Brodwall
+%
+Know How to Use Command-line Tools by Carroll Robinson
+%
+Know Well More than Two Programming Languages by Russel Winder
+%
+Know Your IDE by Heinz Kabutz
+%
+Know Your Limits by Greg Colvin
+%
+Know Your Next Commit by Dan Bergh Johnsson
+%
+Large Interconnected Data Belongs to a Database by Diomidis Spinellis
+%
+Learn Foreign Languages by Klaus Marquardt
+%
+Learn to Estimate by Giovanni Asproni
+%
+Learn to Say "Hello, World" by Thomas Guest
+%
+Let Your Project Speak for Itself by Daniel Lindner
+%
+The Linker Is not a Magical Program by Walter Bright
+%
+The Longevity of Interim Solutions by Klaus Marquardt
+%
+Make Interfaces Easy to Use Correctly and Hard to Use Incorrectly by Scott Meyers
+%
+Make the Invisible More Visible by Jon Jagger
+%
+Message Passing Leads to Better Scalability in Parallel Systems by Russel Winder
+%
+A Message to the Future by Linda Rising
+%
+Missing Opportunities for Polymorphism by Kirk Pepperdine
+%
+News of the Weird: Testers Are Your Friends by Burk Hufnagel
+%
+One Binary by Steve Freeman
+%
+Only the Code Tells the Truth by Peter Sommerlad
+%
+Own (and Refactor) the Build by Steve Berczuk
+%
+Pair Program and Feel the Flow by Gudny Hauknes, Ann Katrin Gagnat, and Kari Rssland
+%
+Prefer Domain-Specific Types to Primitive Types by Einar Landre
+%
+Prevent Errors by Giles Colborne
+%
+The Professional Programmer by Uncle Bob
+%
+Put Everything Under Version Control by Diomidis Spinellis
+%
+Put the Mouse Down and Step Away from the Keyboard by Burk Hufnagel
+%
+Read Code by Karianne Berg
+%
+Read the Humanities by Keith Braithwaite
+%
+Reinvent the Wheel Often by Jason P Sage
+%
+Resist the Temptation of the Singleton Pattern by Sam Saariste
+%
+The Road to Performance Is Littered with Dirty Code Bombs by Kirk Pepperdine
+%
+Simplicity Comes from Reduction by Paul W. Homer
+%
+The Single Responsibility Principle by Uncle Bob
+%
+Start from Yes by Alex Miller
+%
+Step Back and Automate, Automate, Automate by Cay Horstmann
+%
+Take Advantage of Code Analysis Tools by Sarah Mount
+%
+Test for Required Behavior, not Incidental Behavior by Kevlin Henney
+%
+Test Precisely and Concretely by Kevlin Henney
+%
+Test While You Sleep (and over Weekends) by Rajith Attapattu
+%
+Testing Is the Engineering Rigor of Software Development by Neal Ford
+%
+Thinking in States by Niclas Nilsson
+%
+Two Heads Are Often Better than One by Adrian Wible
+%
+Two Wrongs Can Make a Right (and Are Difficult to Fix) by Allan Kelly
+%
+Ubuntu Coding for Your Friends by Aslam Khan
+%
+The Unix Tools Are Your Friends by Diomidis Spinellis
+%
+Use the Right Algorithm and Data Structure by JC van Winkel
+%
+Verbose Logging Will Disturb Your Sleep by Johannes Brodwall
+%
+WET Dilutes Performance Bottlenecks by Kirk Pepperdine
+%
+When Programmers and Testers Collaborate by Janet Gregory
+%
+Write Code as If You Had to Support It for the Rest of Your Life by Yuriy Zubarev
+%
+Write Small Functions Using Examples by Keith Braithwaite
+%
+Write Tests for People by Gerard Meszaros
+%
+You Gotta Care about the Code by Pete Goodliffe
+%
+Your Customers Do not Mean What They Say by Nate Jackson

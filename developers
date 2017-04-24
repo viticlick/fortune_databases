@@ -252,3 +252,5 @@ Fix the cause, not the symptom. By Steve Maguire
 Design is choosing how you will fail. By Ron Fein
 %
 Code never lies, comments sometimes do. By Ron Jeffries
+%
+It's not more features now vs cleanup now. It's features now vs features later. Don't act shoked when it's later and you chose "fewer". By Ken Beck

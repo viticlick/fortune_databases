@@ -1,256 +1,305 @@
-Act with Prudence by Seb Rose
+Act with Prudence - by Seb Rose
 %
-Apply Functional Programming Principles by Edward Garson
+Apply Functional Programming Principles - by Edward Garson
 %
-Ask "What Would the User Do?" (You Are not the User) by Giles Colborne
+Ask "What Would the User Do?" (You Are not the User) - by Giles Colborne
 %
-Automate Your Coding Standard by Filip van Laenen
+Automate Your Coding Standard - by Filip van Laenen
 %
-Beauty Is in Simplicity by Jrn lmheim
+Beauty Is in Simplicity - by Jrn lmheim
 %
-Before You Refactor by Rajith Attapattu
+Before You Refactor - by Rajith Attapattu
 %
-Beware the Share by Udi Dahan
+Beware the Share - by Udi Dahan
 %
-The Boy Scout Rule by Uncle Bob
+The Boy Scout Rule - by Uncle Bob
 %
-Check Your Code First before Looking to Blame Others by Allan Kelly
+Check Your Code First before Looking to Blame Others - by Allan Kelly
 %
-Choose Your Tools with Care by Giovanni Asproni
+Choose Your Tools with Care - by Giovanni Asproni
 %
-Code in the Language of the Domain by Dan North
+Code in the Language of the Domain - by Dan North
 %
-Code Is Design by Ryan Brush
+Code Is Design - by Ryan Brush
 %
-Code Layout Matters by Steve Freeman
+Code Layout Matters - by Steve Freeman
 %
-Code Reviews by Mattias Karlsson
+Code Reviews - by Mattias Karlsson
 %
-Coding with Reason by Yechiel Kimchi
+Coding with Reason - by Yechiel Kimchi
 %
-A Comment on Comments by Cal Evans
+A Comment on Comments - by Cal Evans
 %
-Comment Only What the Code Cannot Say by Kevlin Henney
+Comment Only What the Code Cannot Say - by Kevlin Henney
 %
-Continuous Learning by Clint Shank
+Continuous Learning - by Clint Shank
 %
-Convenience Is not an -ility by Gregor Hohpe
+Convenience Is not an -ility - by Gregor Hohpe
 %
-Deploy Early and Often by Steve Berczuk
+Deploy Early and Often - by Steve Berczuk
 %
-Distinguish Business Exceptions from Technical by Dan Bergh Johnsson
+Distinguish Business Exceptions from Technical - by Dan Bergh Johnsson
 %
-Do Lots of Deliberate Practice by Jon Jagger
+Do Lots of Deliberate Practice - by Jon Jagger
 %
-Domain-Specific Languages by Michael Hunger
+Domain-Specific Languages - by Michael Hunger
 %
-Don't Be Afraid to Break Things by Mike Lewis
+Don't Be Afraid to Break Things - by Mike Lewis
 %
-Don't Be Cute with Your Test Data by Rod Begbie
+Don't Be Cute with Your Test Data - by Rod Begbie
 %
-Don't Ignore that Error! by Pete Goodliffe
+Don't Ignore that Error! - by Pete Goodliffe
 %
-Don't Just Learn the Language, Understand its Culture by Anders Nors
+Don't Just Learn the Language, Understand its Culture - by Anders Nors
 %
-Don't Nail Your Program into the Upright Position by Verity Stob
+Don't Nail Your Program into the Upright Position - by Verity Stob
 %
-Don't Rely on "Magic Happens Here" by AlanGriffiths
+Don't Rely on "Magic Happens Here" - by AlanGriffiths
 %
-Don't Repeat Yourself by Steve Smith
+Don't Repeat Yourself - by Steve Smith
 %
-Don't Touch that Code! by Cal Evans
+Don't Touch that Code! - by Cal Evans
 %
-Encapsulate Behavior, not Just State by Einar Landre
+Encapsulate Behavior, not Just State - by Einar Landre
 %
-Floating-point Numbers Aren't Real by Chuck Allison
+Floating-point Numbers Aren't Real - by Chuck Allison
 %
-Fulfill Your Ambitions with Open Source by Richard Monson-Haefel
+Fulfill Your Ambitions with Open Source - by Richard Monson-Haefel
 %
-The Golden Rule of API Design by Michael Feathers
+The Golden Rule of API Design - by Michael Feathers
 %
-The Guru Myth by Ryan Brush
+The Guru Myth - by Ryan Brush
 %
-Hard Work Does not Pay Off by Olve Maudal
+Hard Work Does not Pay Off - by Olve Maudal
 %
-How to Use a Bug Tracker by Matt Doar
+How to Use a Bug Tracker - by Matt Doar
 %
-Improve Code by Removing It by Pete Goodliffe
+Improve Code by Removing It - by Pete Goodliffe
 %
-Install Me by Marcus Baker
+Install Me - by Marcus Baker
 %
-Inter-Process Communication Affects Application Response Time by Randy Stafford
+Inter-Process Communication Affects Application Response Time - by Randy Stafford
 %
-Keep the Build Clean by Johannes Brodwall
+Keep the Build Clean - by Johannes Brodwall
 %
-Know How to Use Command-line Tools by Carroll Robinson
+Know How to Use Command-line Tools - by Carroll Robinson
 %
-Know Well More than Two Programming Languages by Russel Winder
+Know Well More than Two Programming Languages - by Russel Winder
 %
-Know Your IDE by Heinz Kabutz
+Know Your IDE - by Heinz Kabutz
 %
-Know Your Limits by Greg Colvin
+Know Your Limits - by Greg Colvin
 %
-Know Your Next Commit by Dan Bergh Johnsson
+Know Your Next Commit - by Dan Bergh Johnsson
 %
-Large Interconnected Data Belongs to a Database by Diomidis Spinellis
+Large Interconnected Data Belongs to a Database - by Diomidis Spinellis
 %
-Learn Foreign Languages by Klaus Marquardt
+Learn Foreign Languages - by Klaus Marquardt
 %
-Learn to Estimate by Giovanni Asproni
+Learn to Estimate - by Giovanni Asproni
 %
-Learn to Say "Hello, World" by Thomas Guest
+Learn to Say "Hello, World" - by Thomas Guest
 %
-Let Your Project Speak for Itself by Daniel Lindner
+Let Your Project Speak for Itself - by Daniel Lindner
 %
-The Linker Is not a Magical Program by Walter Bright
+The Linker Is not a Magical Program - by Walter Bright
 %
-The Longevity of Interim Solutions by Klaus Marquardt
+The Longevity of Interim Solutions - by Klaus Marquardt
 %
-Make Interfaces Easy to Use Correctly and Hard to Use Incorrectly by Scott Meyers
+Make Interfaces Easy to Use Correctly and Hard to Use Incorrectly - by Scott Meyers
 %
-Make the Invisible More Visible by Jon Jagger
+Make the Invisible More Visible - by Jon Jagger
 %
-Message Passing Leads to Better Scalability in Parallel Systems by Russel Winder
+Message Passing Leads to Better Scalability in Parallel Systems - by Russel Winder
 %
-A Message to the Future by Linda Rising
+A Message to the Future - by Linda Rising
 %
-Missing Opportunities for Polymorphism by Kirk Pepperdine
+Missing Opportunities for Polymorphism - by Kirk Pepperdine
 %
-News of the Weird: Testers Are Your Friends by Burk Hufnagel
+News of the Weird: Testers Are Your Friends - by Burk Hufnagel
 %
-One Binary by Steve Freeman
+One Binary - by Steve Freeman
 %
-Only the Code Tells the Truth by Peter Sommerlad
+Only the Code Tells the Truth - by Peter Sommerlad
 %
-Own (and Refactor) the Build by Steve Berczuk
+Own (and Refactor) the Build - by Steve Berczuk
 %
-Pair Program and Feel the Flow by Gudny Hauknes, Ann Katrin Gagnat, and Kari Rssland
+Pair Program and Feel the Flow - by Gudny Hauknes, Ann Katrin Gagnat, and Kari Rssland
 %
-Prefer Domain-Specific Types to Primitive Types by Einar Landre
+Prefer Domain-Specific Types to Primitive Types - by Einar Landre
 %
-Prevent Errors by Giles Colborne
+Prevent Errors - by Giles Colborne
 %
-The Professional Programmer by Uncle Bob
+The Professional Programmer - by Uncle Bob
 %
-Put Everything Under Version Control by Diomidis Spinellis
+Put Everything Under Version Control - by Diomidis Spinellis
 %
-Put the Mouse Down and Step Away from the Keyboard by Burk Hufnagel
+Put the Mouse Down and Step Away from the Keyboard - by Burk Hufnagel
 %
-Read Code by Karianne Berg
+Read Code - by Karianne Berg
 %
-Read the Humanities by Keith Braithwaite
+Read the Humanities - by Keith Braithwaite
 %
-Reinvent the Wheel Often by Jason P Sage
+Reinvent the Wheel Often - by Jason P Sage
 %
-Resist the Temptation of the Singleton Pattern by Sam Saariste
+Resist the Temptation of the Singleton Pattern - by Sam Saariste
 %
-The Road to Performance Is Littered with Dirty Code Bombs by Kirk Pepperdine
+The Road to Performance Is Littered with Dirty Code Bombs - by Kirk Pepperdine
 %
-Simplicity Comes from Reduction by Paul W. Homer
+Simplicity Comes from Reduction - by Paul W. Homer
 %
-The Single Responsibility Principle by Uncle Bob
+The Single Responsibility Principle - by Uncle Bob
 %
-Start from Yes by Alex Miller
+Start from Yes - by Alex Miller
 %
-Step Back and Automate, Automate, Automate by Cay Horstmann
+Step Back and Automate, Automate, Automate - by Cay Horstmann
 %
-Take Advantage of Code Analysis Tools by Sarah Mount
+Take Advantage of Code Analysis Tools - by Sarah Mount
 %
-Test for Required Behavior, not Incidental Behavior by Kevlin Henney
+Test for Required Behavior, not Incidental Behavior - by Kevlin Henney
 %
-Test Precisely and Concretely by Kevlin Henney
+Test Precisely and Concretely - by Kevlin Henney
 %
-Test While You Sleep (and over Weekends) by Rajith Attapattu
+Test While You Sleep (and over Weekends) - by Rajith Attapattu
 %
-Testing Is the Engineering Rigor of Software Development by Neal Ford
+Testing Is the Engineering Rigor of Software Development - by Neal Ford
 %
-Thinking in States by Niclas Nilsson
+Thinking in States - by Niclas Nilsson
 %
-Two Heads Are Often Better than One by Adrian Wible
+Two Heads Are Often Better than One - by Adrian Wible
 %
-Two Wrongs Can Make a Right (and Are Difficult to Fix) by Allan Kelly
+Two Wrongs Can Make a Right (and Are Difficult to Fix) - by Allan Kelly
 %
-Ubuntu Coding for Your Friends by Aslam Khan
+Ubuntu Coding for Your Friends - by Aslam Khan
 %
-The Unix Tools Are Your Friends by Diomidis Spinellis
+The Unix Tools Are Your Friends - by Diomidis Spinellis
 %
-Use the Right Algorithm and Data Structure by JC van Winkel
+Use the Right Algorithm and Data Structure - by JC van Winkel
 %
-Verbose Logging Will Disturb Your Sleep by Johannes Brodwall
+Verbose Logging Will Disturb Your Sleep - by Johannes Brodwall
 %
-WET Dilutes Performance Bottlenecks by Kirk Pepperdine
+WET Dilutes Performance Bottlenecks - by Kirk Pepperdine
 %
-When Programmers and Testers Collaborate by Janet Gregory
+When Programmers and Testers Collaborate - by Janet Gregory
 %
-Write Code as If You Had to Support It for the Rest of Your Life by Yuriy Zubarev
+Write Code as If You Had to Support It for the Rest of Your Life - by Yuriy Zubarev
 %
-Write Small Functions Using Examples by Keith Braithwaite
+Write Small Functions Using Examples - by Keith Braithwaite
 %
-Write Tests for People by Gerard Meszaros
+Write Tests for People - by Gerard Meszaros
 %
-You Gotta Care about the Code by Pete Goodliffe
+You Gotta Care about the Code - by Pete Goodliffe
 %
-Your Customers Do not Mean What They Say by Nate Jackson
+Your Customers Do not Mean What They Say - by Nate Jackson
 %
-Before software can be reusable it first has to be usable by  Ralph Johnson
+Before software can be reusable it first has to be usable - by Ralph Johnson
 %
-There are two major products that come out of Berkeley: LSD and UNIX.
-We dont't believe this to be a coincidence by Jeremy S. Anderson
+There are two major products that come out of Berkeley: LSD and UNIX. We dont't believe this to be a coincidence - by Jeremy S. Anderson
 %
-Nine people can't make a baby in a month by Fred Brooks
+Nine people can't make a baby in a month - by Fred Brooks
 %
-Measuring programming progress by lines of code is like measuring 
-aircraft building progress by weight by Bill Gates
+Measuring programming progress by lines of code is like measuring aircraft building progress by weight - by Bill Gates
 %
-If debugging is the process of removing software bugs, then programming must be the process of putting them in by Edsger Dijkstra
+If debugging is the process of removing software bugs, then programming must be the process of putting them in - by Edsger Dijkstra
 %
-The gap between theory and practice is not as wide in theory as it is in practice by Unknown
+The gap between theory and practice is not as wide in theory as it is in practice - by Unknown
 %
-There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so compilcated that there are obvious deficiencies. The first method is far moredifficult by C.A.R. Hoare
+There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so compilcated that there are obvious deficiencies. The first method is far moredifficult - by C.A.R. Hoare
 %
-A computer lets you make more mistakes faster than any other invention in human history, with the exceptions of handgunsand tequila by Mitch Ratcliffe
+A computer lets you make more mistakes faster than any other invention in human history, with the exceptions of handgunsand tequila - by Mitch Ratcliffe
 %
-In order to understand recursion, one must first understand recursion by Unknown
+In order to understand recursion, one must first understand recursion - by Unknown
 %
-Give a man a program, frustrate him for a day.
-Teach a m an to program, frustrate him for a lifetime. by Waseem Latif
+Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime - by Waseem Latif
 %
-Life would be much easier if I had the source code by Unknown
+Life would be much easier if I had the source code - by Unknown
 %
-Walking on water and developing software from a specification are easy if both are frozen. by Edward V Berard
+Walking on water and developing software from a specification are easy if both are frozen - by Edward V Berard
 %
-You miss 100 percent of the shots you never take. by Wayne Gretzky
+You miss 100 percent of the shots you never take - by Wayne Gretzky
 %
-The key to performance is elegance, not battalions of special cases. by Jon Bentley, Doug McIlroy
+The key to performance is elegance, not battalions of special cases - by Jon Bentley, Doug McIlroy
 %
-Inside every large program, there is a program trying to get out. by C.A.R. Hoare
+Inside every large program, there is a program trying to get out - by C.A.R. Hoare
 %
-A good way to stay flexible is to write less code. by Pragmatic Programmer
+A good way to stay flexible is to write less code - by Pragmatic Programmer
 %
-Adding manpower to a late software project makes it later! by Fred Brooks
+Adding manpower to a late software project makes it later! - by Fred Brooks
 %
-A person who never made a mistake never tried anything new. by Albert Einstein
+A person who never made a mistake never tried anything new - by Albert Einstein
 %
-If you can't write it down in English, you can't code it. by Peter Halpen
+If you can't write it down in English, you can't code it - by Peter Halpen
 %
-Talk is cheap, show me the code! by Linus Torvalds
+Talk is cheap, show me the code! - by Linus Torvalds
 %
-You are what you share. by Charles Leadbeater
+You are what you share - by Charles Leadbeater
 %
-Don't make the user provide information that the system already knows. By Rick Lemons
+Don't make the user provide information that the system already knows - by Rick Lemons
 %
-If the programmers like each other, they play a game called 'pair programming'. And if not then the game is called 'peer review'. By Anna Nachesa
+If the programmers like each other, they play a game called 'pair programming'. And if not then the game is called 'peer review' - by Anna Nachesa
 %
-Focus on WHY instead of WHAT in your code will make you a better developer. By Jordi Boggiano
+Focus on WHY instead of WHAT in your code will make you a better developer - by Jordi Boggiano
 %
-If you can't deploy your services independently then they aren't microservices. By Daniel Bryant
+If you can't deploy your services independently then they aren't microservices - by Daniel Bryant
 %
-No one hates software more than software developers. By Jeff Atwood
+No one hates software more than software developers - by Jeff Atwood
 %
-Fix the cause, not the symptom. By Steve Maguire
+Fix the cause, not the symptom - by Steve Maguire
 %
-Design is choosing how you will fail. By Ron Fein
+Design is choosing how you will fail - by Ron Fein
 %
-Code never lies, comments sometimes do. By Ron Jeffries
+Code never lies, comments sometimes do - by Ron Jeffries
 %
-It's not more features now vs cleanup now. It's features now vs features later. Don't act shoked when it's later and you chose "fewer". By Ken Beck
+It's not more features now vs cleanup now. It's features now vs features later. Don't act shoked when it's later and you chose "fewer" - by Ken Beck
+%
+It's a poor craftsman that blames his tools, an expert craftsman knows how to choose excellent tools - by Greg Kroah-Hartman
+%
+Never have a meeting where two pizzas couldn't feed the entire group - by Jeff Bezos
+%
+I am not in competition with anyone but myself. My goal is to improve myself continuously - by Bill Gates
+%
+The biggest risk is not taking any risk - by Mark Zuckerberg
+%
+The only way you're going to be successful is if you admit what you don't know and you ask for help - by Randi Zuckerberg
+%
+Great things in business are never done by one person, they're done by a team of people - by Steve Jobs
+%
+Do not try to do everything. Do one thing well - by Steve Jobs
+%
+If you define the problem correctly, you almost have the solution - by Steve Jobs
+%
+It takes a lot of hard work to make something simple - by Steve Jobs
+%
+Life is about creating and living experiences that are worth sharing - by Steve Jobs
+%
+If you’re not doing some things that are crazy, then you’re doing the wrong things - by Larry Page
+%
+Always deliver more than expected - by Larry Page
+%
+It's very hard to fail completely, if you aim high enough - by Larry Page
+%
+Never trust a computer you can't throw out a window - by Steve Wozniak
+%
+The easier it is to do something, the harder it is to change the way you do it - by Steve Wozniak
+%
+Creative things have to sell to get acknowledged as such - by Steve Wozniak
+%
+People who take risks are the people you'll lose against - by John Sculley
+%
+As a brand marketer, I'm a big believer in 'branding the customer experience', not just selling the service - by John Sculley
+%
+We change our tools and then our tools change us - by Jeff Bezos
+%
+Obsess about customers, not competitors - by Jeff Bezos
+%
+When you struggle with a problem, that's when you understand it - by Elon Musk
+%
+Constantly seek criticism. A well thought out critique of what you're doing is as valuable as gold - by Elon Musk
+%
+If what we are doing is not seen by some people as science fiction, it's probably not transformative enough - by Sergey Brin
+%
+Solving big problems is easier than solving little problems - by Sergey Brin
+%
+Do not be afraid to fail, but also, do not be afraid to succeed - by Eric Schmidt
+%
+We run the company by questions, not by answers - by Eric Schmidt

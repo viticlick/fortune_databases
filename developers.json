@@ -1,0 +1,614 @@
+[
+  {
+    "quote": "Act with Prudence",
+    "author": "Seb Rose"
+  },
+  {
+    "quote": "Apply Functional Programming Principles",
+    "author": "Edward Garson"
+  },
+  {
+    "quote": "Ask \"What Would the User Do?\" (You Are not the User)",
+    "author": "Giles Colborne"
+  },
+  {
+    "quote": "Automate Your Coding Standard",
+    "author": "Filip van Laenen"
+  },
+  {
+    "quote": "Beauty Is in Simplicity",
+    "author": "Jrn lmheim"
+  },
+  {
+    "quote": "Before You Refactor",
+    "author": "Rajith Attapattu"
+  },
+  {
+    "quote": "Beware the Share",
+    "author": "Udi Dahan"
+  },
+  {
+    "quote": "The Boy Scout Rule",
+    "author": "Uncle Bob"
+  },
+  {
+    "quote": "Check Your Code First before Looking to Blame Others",
+    "author": "Allan Kelly"
+  },
+  {
+    "quote": "Choose Your Tools with Care",
+    "author": "Giovanni Asproni"
+  },
+  {
+    "quote": "Code in the Language of the Domain",
+    "author": "Dan North"
+  },
+  {
+    "quote": "Code Is Design",
+    "author": "Ryan Brush"
+  },
+  {
+    "quote": "Code Layout Matters",
+    "author": "Steve Freeman"
+  },
+  {
+    "quote": "Code Reviews",
+    "author": "Mattias Karlsson"
+  },
+  {
+    "quote": "Coding with Reason",
+    "author": "Yechiel Kimchi"
+  },
+  {
+    "quote": "A Comment on Comments",
+    "author": "Cal Evans"
+  },
+  {
+    "quote": "Comment Only What the Code Cannot Say",
+    "author": "Kevlin Henney"
+  },
+  {
+    "quote": "Continuous Learning",
+    "author": "Clint Shank"
+  },
+  {
+    "quote": "Convenience Is not an -ility",
+    "author": "Gregor Hohpe"
+  },
+  {
+    "quote": "Deploy Early and Often",
+    "author": "Steve Berczuk"
+  },
+  {
+    "quote": "Distinguish Business Exceptions from Technical",
+    "author": "Dan Bergh Johnsson"
+  },
+  {
+    "quote": "Do Lots of Deliberate Practice",
+    "author": "Jon Jagger"
+  },
+  {
+    "quote": "Domain-Specific Languages",
+    "author": "Michael Hunger"
+  },
+  {
+    "quote": "Don't Be Afraid to Break Things",
+    "author": "Mike Lewis"
+  },
+  {
+    "quote": "Don't Be Cute with Your Test Data",
+    "author": "Rod Begbie"
+  },
+  {
+    "quote": "Don't Ignore that Error!",
+    "author": "Pete Goodliffe"
+  },
+  {
+    "quote": "Don't Just Learn the Language, Understand its Culture",
+    "author": "Anders Nors"
+  },
+  {
+    "quote": "Don't Nail Your Program into the Upright Position",
+    "author": "Verity Stob"
+  },
+  {
+    "quote": "Don't Rely on \"Magic Happens Here\"",
+    "author": "AlanGriffiths"
+  },
+  {
+    "quote": "Don't Repeat Yourself",
+    "author": "Steve Smith"
+  },
+  {
+    "quote": "Don't Touch that Code!",
+    "author": "Cal Evans"
+  },
+  {
+    "quote": "Encapsulate Behavior, not Just State",
+    "author": "Einar Landre"
+  },
+  {
+    "quote": "Floating-point Numbers Aren't Real",
+    "author": "Chuck Allison"
+  },
+  {
+    "quote": "Fulfill Your Ambitions with Open Source",
+    "author": "Richard Monson-Haefel"
+  },
+  {
+    "quote": "The Golden Rule of API Design",
+    "author": "Michael Feathers"
+  },
+  {
+    "quote": "The Guru Myth",
+    "author": "Ryan Brush"
+  },
+  {
+    "quote": "Hard Work Does not Pay Off",
+    "author": "Olve Maudal"
+  },
+  {
+    "quote": "How to Use a Bug Tracker",
+    "author": "Matt Doar"
+  },
+  {
+    "quote": "Improve Code by Removing It",
+    "author": "Pete Goodliffe"
+  },
+  {
+    "quote": "Install Me",
+    "author": "Marcus Baker"
+  },
+  {
+    "quote": "Inter-Process Communication Affects Application Response Time",
+    "author": "Randy Stafford"
+  },
+  {
+    "quote": "Keep the Build Clean",
+    "author": "Johannes Brodwall"
+  },
+  {
+    "quote": "Know How to Use Command-line Tools",
+    "author": "Carroll Robinson"
+  },
+  {
+    "quote": "Know Well More than Two Programming Languages",
+    "author": "Russel Winder"
+  },
+  {
+    "quote": "Know Your IDE",
+    "author": "Heinz Kabutz"
+  },
+  {
+    "quote": "Know Your Limits",
+    "author": "Greg Colvin"
+  },
+  {
+    "quote": "Know Your Next Commit",
+    "author": "Dan Bergh Johnsson"
+  },
+  {
+    "quote": "Large Interconnected Data Belongs to a Database",
+    "author": "Diomidis Spinellis"
+  },
+  {
+    "quote": "Learn Foreign Languages",
+    "author": "Klaus Marquardt"
+  },
+  {
+    "quote": "Learn to Estimate",
+    "author": "Giovanni Asproni"
+  },
+  {
+    "quote": "Learn to Say \"Hello, World\"",
+    "author": "Thomas Guest"
+  },
+  {
+    "quote": "Let Your Project Speak for Itself",
+    "author": "Daniel Lindner"
+  },
+  {
+    "quote": "The Linker Is not a Magical Program",
+    "author": "Walter Bright"
+  },
+  {
+    "quote": "The Longevity of Interim Solutions",
+    "author": "Klaus Marquardt"
+  },
+  {
+    "quote": "Make Interfaces Easy to Use Correctly and Hard to Use Incorrectly",
+    "author": "Scott Meyers"
+  },
+  {
+    "quote": "Make the Invisible More Visible",
+    "author": "Jon Jagger"
+  },
+  {
+    "quote": "Message Passing Leads to Better Scalability in Parallel Systems",
+    "author": "Russel Winder"
+  },
+  {
+    "quote": "A Message to the Future",
+    "author": "Linda Rising"
+  },
+  {
+    "quote": "Missing Opportunities for Polymorphism",
+    "author": "Kirk Pepperdine"
+  },
+  {
+    "quote": "News of the Weird: Testers Are Your Friends",
+    "author": "Burk Hufnagel"
+  },
+  {
+    "quote": "One Binary",
+    "author": "Steve Freeman"
+  },
+  {
+    "quote": "Only the Code Tells the Truth",
+    "author": "Peter Sommerlad"
+  },
+  {
+    "quote": "Own (and Refactor) the Build",
+    "author": "Steve Berczuk"
+  },
+  {
+    "quote": "Pair Program and Feel the Flow",
+    "author": "Gudny Hauknes, Ann Katrin Gagnat, and Kari Rssland"
+  },
+  {
+    "quote": "Prefer Domain-Specific Types to Primitive Types",
+    "author": "Einar Landre"
+  },
+  {
+    "quote": "Prevent Errors",
+    "author": "Giles Colborne"
+  },
+  {
+    "quote": "The Professional Programmer",
+    "author": "Uncle Bob"
+  },
+  {
+    "quote": "Put Everything Under Version Control",
+    "author": "Diomidis Spinellis"
+  },
+  {
+    "quote": "Put the Mouse Down and Step Away from the Keyboard",
+    "author": "Burk Hufnagel"
+  },
+  {
+    "quote": "Read Code",
+    "author": "Karianne Berg"
+  },
+  {
+    "quote": "Read the Humanities",
+    "author": "Keith Braithwaite"
+  },
+  {
+    "quote": "Reinvent the Wheel Often",
+    "author": "Jason P Sage"
+  },
+  {
+    "quote": "Resist the Temptation of the Singleton Pattern",
+    "author": "Sam Saariste"
+  },
+  {
+    "quote": "The Road to Performance Is Littered with Dirty Code Bombs",
+    "author": "Kirk Pepperdine"
+  },
+  {
+    "quote": "Simplicity Comes from Reduction",
+    "author": "Paul W. Homer"
+  },
+  {
+    "quote": "The Single Responsibility Principle",
+    "author": "Uncle Bob"
+  },
+  {
+    "quote": "Start from Yes",
+    "author": "Alex Miller"
+  },
+  {
+    "quote": "Step Back and Automate, Automate, Automate",
+    "author": "Cay Horstmann"
+  },
+  {
+    "quote": "Take Advantage of Code Analysis Tools",
+    "author": "Sarah Mount"
+  },
+  {
+    "quote": "Test for Required Behavior, not Incidental Behavior",
+    "author": "Kevlin Henney"
+  },
+  {
+    "quote": "Test Precisely and Concretely",
+    "author": "Kevlin Henney"
+  },
+  {
+    "quote": "Test While You Sleep (and over Weekends)",
+    "author": "Rajith Attapattu"
+  },
+  {
+    "quote": "Testing Is the Engineering Rigor of Software Development",
+    "author": "Neal Ford"
+  },
+  {
+    "quote": "Thinking in States",
+    "author": "Niclas Nilsson"
+  },
+  {
+    "quote": "Two Heads Are Often Better than One",
+    "author": "Adrian Wible"
+  },
+  {
+    "quote": "Two Wrongs Can Make a Right (and Are Difficult to Fix)",
+    "author": "Allan Kelly"
+  },
+  {
+    "quote": "Ubuntu Coding for Your Friends",
+    "author": "Aslam Khan"
+  },
+  {
+    "quote": "The Unix Tools Are Your Friends",
+    "author": "Diomidis Spinellis"
+  },
+  {
+    "quote": "Use the Right Algorithm and Data Structure",
+    "author": "JC van Winkel"
+  },
+  {
+    "quote": "Verbose Logging Will Disturb Your Sleep",
+    "author": "Johannes Brodwall"
+  },
+  {
+    "quote": "WET Dilutes Performance Bottlenecks",
+    "author": "Kirk Pepperdine"
+  },
+  {
+    "quote": "When Programmers and Testers Collaborate",
+    "author": "Janet Gregory"
+  },
+  {
+    "quote": "Write Code as If You Had to Support It for the Rest of Your Life",
+    "author": "Yuriy Zubarev"
+  },
+  {
+    "quote": "Write Small Functions Using Examples",
+    "author": "Keith Braithwaite"
+  },
+  {
+    "quote": "Write Tests for People",
+    "author": "Gerard Meszaros"
+  },
+  {
+    "quote": "You Gotta Care about the Code",
+    "author": "Pete Goodliffe"
+  },
+  {
+    "quote": "Your Customers Do not Mean What They Say",
+    "author": "Nate Jackson"
+  },
+  {
+    "quote": "Before software can be reusable it first has to be usable",
+    "author": "Ralph Johnson"
+  },
+  {
+    "quote": "There are two major products that come out of Berkeley: LSD and UNIX. We dont't believe this to be a coincidence",
+    "author": "Jeremy S. Anderson"
+  },
+  {
+    "quote": "Nine people can't make a baby in a month",
+    "author": "Fred Brooks"
+  },
+  {
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight",
+    "author": "Bill Gates"
+  },
+  {
+    "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in",
+    "author": "Edsger Dijkstra"
+  },
+  {
+    "quote": "The gap between theory and practice is not as wide in theory as it is in practice",
+    "author": "Unknown"
+  },
+  {
+    "quote": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so compilcated that there are obvious deficiencies. The first method is far moredifficult",
+    "author": "C.A.R. Hoare"
+  },
+  {
+    "quote": "A computer lets you make more mistakes faster than any other invention in human history, with the exceptions of handgunsand tequila",
+    "author": "Mitch Ratcliffe"
+  },
+  {
+    "quote": "In order to understand recursion, one must first understand recursion",
+    "author": "Unknown"
+  },
+  {
+    "quote": "Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime",
+    "author": "Waseem Latif"
+  },
+  {
+    "quote": "Life would be much easier if I had the source code",
+    "author": "Unknown"
+  },
+  {
+    "quote": "Walking on water and developing software from a specification are easy if both are frozen",
+    "author": "Edward V Berard"
+  },
+  {
+    "quote": "You miss 100 percent of the shots you never take",
+    "author": "Wayne Gretzky"
+  },
+  {
+    "quote": "The key to performance is elegance, not battalions of special cases",
+    "author": "Jon Bentley, Doug McIlroy"
+  },
+  {
+    "quote": "Inside every large program, there is a program trying to get out",
+    "author": "C.A.R. Hoare"
+  },
+  {
+    "quote": "A good way to stay flexible is to write less code",
+    "author": "Pragmatic Programmer"
+  },
+  {
+    "quote": "Adding manpower to a late software project makes it later!",
+    "author": "Fred Brooks"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "If you can't write it down in English, you can't code it",
+    "author": "Peter Halpen"
+  },
+  {
+    "quote": "Talk is cheap, show me the code!",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "You are what you share",
+    "author": "Charles Leadbeater"
+  },
+  {
+    "quote": "Don't make the user provide information that the system already knows",
+    "author": "Rick Lemons"
+  },
+  {
+    "quote": "If the programmers like each other, they play a game called 'pair programming'. And if not then the game is called 'peer review'",
+    "author": "Anna Nachesa"
+  },
+  {
+    "quote": "Focus on WHY instead of WHAT in your code will make you a better developer",
+    "author": "Jordi Boggiano"
+  },
+  {
+    "quote": "If you can't deploy your services independently then they aren't microservices",
+    "author": "Daniel Bryant"
+  },
+  {
+    "quote": "No one hates software more than software developers",
+    "author": "Jeff Atwood"
+  },
+  {
+    "quote": "Fix the cause, not the symptom",
+    "author": "Steve Maguire"
+  },
+  {
+    "quote": "Design is choosing how you will fail",
+    "author": "Ron Fein"
+  },
+  {
+    "quote": "Code never lies, comments sometimes do",
+    "author": "Ron Jeffries"
+  },
+  {
+    "quote": "It's not more features now vs cleanup now. It's features now vs features later. Don't act shoked when it's later and you chose \"fewer\"",
+    "author": "Ken Beck"
+  },
+  {
+    "quote": "It's a poor craftsman that blames his tools, an expert craftsman knows how to choose excellent tools",
+    "author": "Greg Kroah-Hartman"
+  },
+  {
+    "quote": "Never have a meeting where two pizzas couldn't feed the entire group",
+    "author": "Jeff Bezos"
+  },
+  {
+    "quote": "I am not in competition with anyone but myself. My goal is to improve myself continuously",
+    "author": "Bill Gates"
+  },
+  {
+    "quote": "The biggest risk is not taking any risk",
+    "author": "Mark Zuckerberg"
+  },
+  {
+    "quote": "The only way you're going to be successful is if you admit what you don't know and you ask for help",
+    "author": "Randi Zuckerberg"
+  },
+  {
+    "quote": "Great things in business are never done by one person, they're done by a team of people",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "Do not try to do everything. Do one thing well",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "If you define the problem correctly, you almost have the solution",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "It takes a lot of hard work to make something simple",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "Life is about creating and living experiences that are worth sharing",
+    "author": "Steve Jobs"
+  },
+  {
+    "quote": "If you’re not doing some things that are crazy, then you’re doing the wrong things",
+    "author": "Larry Page"
+  },
+  {
+    "quote": "Always deliver more than expected",
+    "author": "Larry Page"
+  },
+  {
+    "quote": "It's very hard to fail completely, if you aim high enough",
+    "author": "Larry Page"
+  },
+  {
+    "quote": "Never trust a computer you can't throw out a window",
+    "author": "Steve Wozniak"
+  },
+  {
+    "quote": "The easier it is to do something, the harder it is to change the way you do it",
+    "author": "Steve Wozniak"
+  },
+  {
+    "quote": "Creative things have to sell to get acknowledged as such",
+    "author": "Steve Wozniak"
+  },
+  {
+    "quote": "People who take risks are the people you'll lose against",
+    "author": "John Sculley"
+  },
+  {
+    "quote": "As a brand marketer, I'm a big believer in 'branding the customer experience', not just selling the service",
+    "author": "John Sculley"
+  },
+  {
+    "quote": "We change our tools and then our tools change us",
+    "author": "Jeff Bezos"
+  },
+  {
+    "quote": "Obsess about customers, not competitors",
+    "author": "Jeff Bezos"
+  },
+  {
+    "quote": "When you struggle with a problem, that's when you understand it",
+    "author": "Elon Musk"
+  },
+  {
+    "quote": "Constantly seek criticism. A well thought out critique of what you're doing is as valuable as gold",
+    "author": "Elon Musk"
+  },
+  {
+    "quote": "If what we are doing is not seen by some people as science fiction, it's probably not transformative enough",
+    "author": "Sergey Brin"
+  },
+  {
+    "quote": "Solving big problems is easier than solving little problems",
+    "author": "Sergey Brin"
+  },
+  {
+    "quote": "Do not be afraid to fail, but also, do not be afraid to succeed",
+    "author": "Eric Schmidt"
+  },
+  {
+    "quote": "We run the company by questions, not by answers",
+    "author": "Eric Schmidt"
+  }
+]
